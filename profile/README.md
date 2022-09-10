@@ -1,7 +1,5 @@
 # 项目介绍
 
-[https://github.com/WeepsDanky/econ-cadope](https://github.com/WeepsDanky/econ-cadope)
-
 # Project.init() = Problems we solve
 
 For the present times, how to smoothly live through the current world economic recession is one of the major issues for countries across the world concerns. Secondly, real GDP is a major indicator of “is the economy doing well” or the healthiness of the economy. Therefore, our mission is now to keep the real GDP growth during a technical economic recession, as the economic recession is inevitable from a classical economic perspective. 
