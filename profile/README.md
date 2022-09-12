@@ -38,3 +38,5 @@ We believe in the future of Web3.
 👦🏻 Xiaoyi Sun, a student at Imperial College London, studying Physics BSc. Interested in Web3 applications and believe in the future of Web3.
 
 👧🏻 Xuheng Zhao, a physics undergraduate but interested in any frontier technologies such as Web3.
+
+Refered to depository: https://github.com/codeSTACKr/create-10k-nft-collection
